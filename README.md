@@ -19,7 +19,7 @@ Shymax UI is a lightweight, high-performance web-based desktop environment. Buil
 
 ## 🚀 Live Demo
 
-[Will Release soon!]
+[https://shymaxospreview.edgeone.dev/]
 
 ## 🛠️ Built With
 
