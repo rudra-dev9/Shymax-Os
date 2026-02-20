@@ -1,5 +1,5 @@
-# Shymax-Os
-Shymax Os v1 --> v7 Enjoy!
+# Shymax-UI
+Shymax UI v1 --> v7 Enjoy!
 
 # Shymax UI - Workspace Edition 🖥️✨
 
