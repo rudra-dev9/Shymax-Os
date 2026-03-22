@@ -1,5 +1,5 @@
 # Shymax-UI
-Shymax UI v1 --> v7 Enjoy!
+Shymax UI v1 --> v7 Enjoy! More Updates In TAGS
 
 # Shymax UI - Workspace Edition 🖥️✨
 
